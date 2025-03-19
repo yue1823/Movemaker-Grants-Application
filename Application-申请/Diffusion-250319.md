@@ -10,6 +10,7 @@ Diffusion
 *   Website: [diffusion-nextjs.vercel.app](diffusion-nextjs.vercel.app)
 *   AI整合项目: [pwerful.vercel.app](pwerful.vercel.app)
 *   AI项目介绍: [https://devfolio.co/projects/powerful-53b5](https://devfolio.co/projects/powerful-53b5)
+*   未來可以整合這個ai 到 diffusion ，兩個都是我的
 
 **3. 您的名字**
 
